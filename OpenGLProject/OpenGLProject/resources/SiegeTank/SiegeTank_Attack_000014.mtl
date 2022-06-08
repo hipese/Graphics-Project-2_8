@@ -1,0 +1,50 @@
+# Blender MTL File: 'SiegeTank.blend'
+# Material Count: 4
+
+newmtl Siege_TANK
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke assats\\textures\\siegetank_emissive.png
+map_Ks assats\\textures\\siegetank_specular.png
+
+newmtl Siege_TANK.001
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke assats\\textures\\siegetank_emissive.png
+map_Ks assats\\textures\\siegetank_specular.png
+
+newmtl Tank_Treads_L1
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd assats\\textures\\tank_treads.png
+map_Ks assats\\textures\\tank_treads_spec.png
+
+newmtl Tank_Treads_R1
+Ns 575.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd assats\\textures\\tank_treads.png
+map_Ks assats\\textures\\tank_treads_spec.png
